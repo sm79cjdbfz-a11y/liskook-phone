@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "id": "234aa724-d370-4132-aea7-c116c08b6c9e",
+  "title": "Liskook",
+  "owner": "Jungkook ",
+  "ownerAvatar": "assets/1.jpg",
+  "theme": "dark",
+  "homeIconColor": "#ffffff",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "10:50",
+  "date": "2026-10-25",
+  "clockMode": "current",
+  "lockTextTone": "dark",
+  "lockWallpaperTransform": {
+    "x": 10.946425230266211,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 0,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 0,
+    "opacity": 1
+  },
+  "homeWallpaperEffects": {
+    "blur": 4,
+    "opacity": 1
+  },
+  "lockCode": "2703",
+  "lockWallpaper": "assets/2.jpg",
+  "homeWallpaper": "assets/3.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": true,
+    "scrapbook": true,
+    "sns": true
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "calendar",
+      "diary",
+      "scrapbook",
+      "sns",
+      "calls",
+      "notes",
+      "photos"
+    ],
+    "dock": [
+      "messages",
+      "contacts"
+    ]
+  },
+  "homeSlots": {
+    "photos": 7,
+    "notes": 6,
+    "music": 8,
+    "calendar": 9,
+    "diary": 2,
+    "scrapbook": 3,
+    "sns": 12,
+    "calls": 13
+  },
+  "widgets": [
+    {
+      "id": "a2e66070-25ad-4ef5-98b9-b196475a4e98",
+      "type": "photo",
+      "size": "2x2",
+      "slot": 0,
+      "src": "assets/19.png",
+      "style": "fill",
+      "caption": "",
+      "transform": {
+        "x": 50,
+        "y": 59,
+        "scale": 1
+      }
+    },
+    {
+      "id": "bfb66266-0733-4356-91e1-de3fee6327ce",
+      "type": "photo",
+      "size": "2x2",
+      "slot": 10,
+      "src": "assets/20.jpg",
+      "style": "fill",
+      "caption": ""
+    }
+  ],
+  "contacts": [
+    {
+      "id": "69731a31-73d9-4244-aea4-b611fed6a1b9",
+      "name": "Baby💛",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/4.jpg"
+    },
+    {
+      "id": "72c15aca-4dc4-4615-b850-86f2c29cf799",
+      "name": "Mom",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": null
+    }
+  ],
+  "threads": [
+    {
+      "id": "b069d45a-bd47-4394-9426-9109eb018fd5",
+      "contactId": "69731a31-73d9-4244-aea4-b611fed6a1b9",
+      "messages": [
+        {
+          "id": "26098145-34e4-4112-bf4f-b4fce96bd7ac",
+          "kind": "date",
+          "text": "Sunday, October 25",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 25,
+            "weekday": 0
+          }
+        },
+        {
+          "id": "ca2ce335-65b5-4cd1-9185-89bcd13b48c0",
+          "from": "them",
+          "text": "วันนี้อย่าลืมซื้อน้ำยาซักผ้าเข้ามาด้วย",
+          "time": "11:16"
+        },
+        {
+          "id": "dbc3bb12-00c8-4191-a5e7-f9f6d451c378",
+          "from": "me",
+          "text": "รับทราบครับที่รัก",
+          "time": "11:16"
+        },
+        {
+          "id": "13d46e6b-95ed-4407-93d8-c190729e3fdf",
+          "from": "them",
+          "text": "กลับบ้านตอนไหน",
+          "time": "11:16"
+        },
+        {
+          "id": "b8920e44-27ce-4fcd-a22e-6f9754fbd24f",
+          "from": "me",
+          "text": "อีกสักพักเพื่อนมันโม้อยู่",
+          "time": "11:17"
+        },
+        {
+          "id": "e881aff2-0e19-4b2c-91e5-b68fdf6f2789",
+          "from": "them",
+          "text": "นานเนอะ",
+          "time": "11:24"
+        },
+        {
+          "id": "de4370c4-c0a0-4ea9-8248-1efe5c9c4a21",
+          "from": "me",
+          "text": "คิดถึงอะดิ",
+          "time": "11:25"
+        },
+        {
+          "id": "70774abf-4d14-4f5b-ae22-e60db9196c78",
+          "from": "me",
+          "text": "มีอะไรให้ด้วย",
+          "time": "11:25"
+        },
+        {
+          "id": "a3e1ab23-1851-4af3-8ad5-9e6c62237554",
+          "from": "them",
+          "text": "ไหน",
+          "time": "11:25"
+        },
+        {
+          "id": "de41a67b-7fda-4ee3-a027-c9e3bacb102b",
+          "from": "me",
+          "text": "ไม่บอกเดี๋ยวก็รู้เอง",
+          "time": "11:25"
+        },
+        {
+          "id": "e50f8435-c8d7-4b76-a33a-87d6a0022fee",
+          "from": "them",
+          "text": "😒😒",
+          "time": "11:26"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "01f41cbf-9eb8-4621-a9a7-c43d8e15889e",
+      "src": "assets/5.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    },
+    {
+      "id": "1c282928-9fba-4fb3-bfe9-468e159701ac",
+      "src": "assets/6.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    },
+    {
+      "id": "240a9fca-c633-40ab-bb13-bf13d70ce624",
+      "src": "assets/7.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    },
+    {
+      "id": "6974f8ce-54ff-4065-a4d4-7c26cff80b5a",
+      "src": "assets/8.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    },
+    {
+      "id": "b372c07c-18c3-460b-9d59-aab1ebabd53b",
+      "src": "assets/9.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    },
+    {
+      "id": "72d708e7-b4d1-4a77-bd41-b6503e4c1dd4",
+      "src": "assets/10.jpg",
+      "caption": "",
+      "date": "2026-10-25",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "466381e8-701d-4a03-b553-b06f52062b9d",
+      "title": "เลิฟพัม",
+      "body": "พาไปคลินิกตรวสุขภาพ",
+      "pinned": false,
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "291c3db6-606d-4eea-9f7d-1e447bfcf5a5",
+      "title": "พาลิซไปดูหนัง",
+      "body": "วันนี้ไปสองคน 🥰",
+      "pinned": false,
+      "updated": "2026-10-25"
+    },
+    {
+      "id": "09a8e2ad-d0b3-4bab-a73b-699f068a88eb",
+      "title": "เพลงใหม่",
+      "body": "แต่งให้ลิซครบรอบ 8 ปี",
+      "pinned": false,
+      "updated": "2026-10-25"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "55a308e5-c56a-4908-bb4e-364f85792bee",
+        "title": "LISA - Tarantino",
+        "artist": "LISA",
+        "cover": "assets/11.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
+      },
+      {
+        "id": "7abdab1f-d187-4aff-9b51-d954c7d4303b",
+        "title": "LISA - SaWaDiKa",
+        "artist": "LISA",
+        "cover": "assets/12.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=FyS5dAywkEo"
+      },
+      {
+        "id": "bbd79e50-f5e5-479a-aeda-e8ae831c634d",
+        "title": "정국 (Jung Kook) 'Seven (feat. Latto)",
+        "artist": "JungKook",
+        "cover": "assets/13.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=QU9c0053UAU"
+      },
+      {
+        "id": "078c24c1-845c-4b4c-bf07-b285f94a01cd",
+        "title": "정국 (Jung Kook) 'Standing Next to You'",
+        "artist": "JungKook",
+        "cover": "assets/14.jpg",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=UNo0TG9LwwI"
+      }
+    ],
+    "playlists": []
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "6ea1c674-ce83-4333-b997-a4504937b885",
+        "title": "วันเกิดคุณแฟน",
+        "date": "2027-03-27",
+        "time": "00:00",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "3955abb4-6608-492a-a4b6-d8fbfe5b2f20",
+        "title": "วันครอบรอบ 8 ปี",
+        "date": "2028-08-09",
+        "time": "00:00",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "sns": {
+    "profile": {
+      "name": "Jungkook",
+      "avatar": "assets/15.jpg"
+    },
+    "posts": [
+      {
+        "id": "c26ffde6-0aea-444b-a086-149a53ae380b",
+        "authorId": "guest",
+        "author": {
+          "name": "LISA"
+        },
+        "text": "ดอกไม้สวยมาก ขอบคุณนะ💜",
+        "images": [
+          "assets/16.jpg",
+          "assets/17.jpg"
+        ],
+        "likes": "765",
+        "reposts": "135",
+        "replyCount": "12",
+        "replies": [
+          {
+            "id": "35f989da-286d-4fa2-befe-4bedbc1e7469",
+            "authorId": "me",
+            "text": "แฟนใครน่ารักจัง"
+          }
+        ]
+      },
+      {
+        "id": "5801f488-003d-433b-b0da-fe1ec151e733",
+        "authorId": "me",
+        "text": "💛💜",
+        "images": [
+          "assets/18.jpg"
+        ],
+        "time": "11:12",
+        "likes": "8978",
+        "reposts": "237",
+        "replyCount": "156"
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "49c9b04a-ec96-4d66-abd7-a05b3960015b",
+      "type": "outgoing",
+      "name": "แม่",
+      "date": "2026-10-24",
+      "time": "13:37"
+    },
+    {
+      "id": "512145dc-ca5d-4e25-b62f-8af325c09da3",
+      "type": "incoming",
+      "contactId": "69731a31-73d9-4244-aea4-b611fed6a1b9",
+      "date": "2026-10-24",
+      "time": "11:25"
+    }
+  ],
+  "updatedAt": "2026-10-25T04:32:54.390Z"
+}
